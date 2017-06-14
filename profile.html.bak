@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<meta>
+	
+	<link href="https://fonts.googleapis.com/css?family=Sriracha" rel="stylesheet"> 
+	
+	<link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css">
+	<style type="text/css">
+		body {
+				background-color: :; 
+			}
+		
+   	</style>
+</head>
+
+<body>   
+    <h4  style="font-family: 'Sriracha', cursive;" align="center">
+			It'me
+		</h4>
+    <h5 style="font-family: 'Sriracha', cursive;" align="center"> 
+    	PONPEN  PROMMAWAN
+    	</h5>
+    <h6 style="font-family: 'Sriracha', cursive;" align="center"> <font size="4" >
+    	Bachelor of Education (Science) </font> 
+    	</h6>
+    <div >
+    	<img height="220" width="100%" src="img/26.jpg" >
+    </div>
+    <div class="row"> 
+		<div class="col s4" >
+			<div class="card-panel grey darken-1">
+				<center><img height="200" width="150" src="img/img1.png"></center>
+				<blockquote><p class="flow-text">
+					<img height="50" width="50" src="img/img2.png"> 
+					ABOUT  ME
+                </p></blockquote>
+              
+                <ul >
+					  <li >Coffee</li>
+					  <li>-Tea</li>
+					  <li>-Milk</li>
+				</ul> 
+            </div>
+		</div>
+		<div class="col s8">
+		<div class="card-panel grey lighten-5">ฝึกซ้อมนักเรียนชั้นประถมศึกษา รร.วัดทองเพลงประกวดการแสดง Science   Show ระดับเขตการศึกษาได้รับรางวัลรองชนะเลิศอันดับหนึ่ง
+          เป็นที่ปรึกษานักเรียน รร.วัดทองเพลงได้รับรางวัลชนะเลิศอันดับหนึ่ง ในการจัดทำโครงงานเรื่อง ครีมขัดรองเท้าจากกากมะพร้าว
+          เป็นที่ปรึกษานักเรียนระดับชั้นประถมศึกษา รร.วัดทองเพลงเข้าแข่งขันระดับเขตการศึกษา ได้รับรางวัลรองชนะเลิศอันดับหนึ่ง ในการจัดทำโครงงานเรื่อง สเปรย์ปรับอากาศจากสมุนไพร
+           เป็นที่ปรึกษานักเรียนระดับชั้นมัธยมศึกษา รร.วัดทองเพลงเข้าแข่งขันระดับเขตการศึกษา ได้รับรางวัลชนะเลิศอันดับหนึ่ง ในการจัดทำโครงงานเรื่อง ครีมขัดรองเท้าจากเปลือกส้มโอ
+        </div>
+		</div>	
+	</div>
+
+</body>
+
+</html>
